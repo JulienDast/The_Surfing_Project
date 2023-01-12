@@ -1,0 +1,12 @@
+.jumbotron{
+  background-image: url("https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2019/04/25/f3373b01-d633-4433-900b-0cf9dd47e652/bourez-surf-vague-10-points-teahupoo");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.card-img-top1{
+  height: 359px;
+  width: 538;
+}
